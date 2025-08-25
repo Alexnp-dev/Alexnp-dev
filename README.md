@@ -1,6 +1,6 @@
-<h1 align="center">
-  👋 <span style="color:#00f7ff;">Olá, eu sou o Alex!</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=$+python3+neural_blast.py+--iterations+2000;💥+Rede+Neural+ativada;💥+Dados+explodindo+em+insights;💥+Fronteira+de+decisão+em+mutação" />
+</p>
 
 ###
 
