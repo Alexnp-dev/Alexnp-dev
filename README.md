@@ -60,21 +60,13 @@
 
 <br clear="both">
 
-## 🕹️ Meu Gráfico de Contribuições
-> Cada ponto é uma linha de código. Cada curva, uma ideia em movimento.
->
-> <h2 align="center">⚡ Explosão de Código</h2>
+## 
+
+<h1 align="center">💥 Machine Learning Detonando 💥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=$+python3+neural_blast.py+--iterations+2000;💥+Rede+Neural+ativada;💥+Dados+explodindo+em+clusters;💥+Fronteira+de+decisão+em+mutação;$+whoami;Alex+—+engenheiro+de+ideias,+artista+de+algoritmos,+alquimista+de+dados" />
-</p>
-
-<h1 align="center">
-  💣 <span style="color:#00f7ff;">Machine Learning Detonado</span> 💣
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aleem-Alex/Aleem-Alex/output/pacman-contribution-graph-dark.svg" width="600" alt="Gráfico Pac-Man">
+  Cientista de Dados apaixonado por transformar informação em inteligência.  
+  Explorando o universo Python com Pandas, Matplotlib e algoritmos de Machine Learning.  
 </p>
 
 ---
@@ -82,24 +74,10 @@
 ### ⚡ Explosão de Código
 
 ```bash
-$ python3 neural_blast.py --iterations 2000
-💥 Rede Neural ativada
-💥 Dados explodindo em clusters
-💥 Fronteira de decisão em mutação
+$ python3 blast.py --iterations 2000
+🔴 Rede Neural ativada  
+🔵 Dados explodindo em clusters  
+🟣 Fronteira de decisão em formação
 
 $ whoami
-Alex — engenheiro de ideias, artista de algoritmos, alquimista de dados.
-
-<h1 align="center">
-  💣 <span style="color:#00f7ff;">Machine Learning Detonado</span> 💣
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aleem-Alex/Aleem-Alex/output/pacman-contribution-graph-dark.svg" width="600" alt="Gráfico Pac-Man">
-</p>
-
----
-
-```bash
-$ whoami
-Alex — Ciêntista de Dados, artista de algoritmos, alquimista de dados.
+Alex — Cientista de Dados, artista de algoritmos, alquimista da informação.
