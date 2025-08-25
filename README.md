@@ -1,3 +1,18 @@
+<h2 align="center">🔥 Terminal Neural em Ação</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=$+python3+neural_blast.py+--iterations+2000;💥+Rede+Neural+ativada;💥+Dados+explodindo+em+insights;💥+Fronteira+de+decisão+em+mutação" />
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlsNjNvdnpjZ25iZHptYTJ5emVzYzdtMGUybzU0dTF5Yzcza2RjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3Vca26EaTIEU/giphy.gif" width="600" alt="Terminal animado" />
+</p>
+
+<p align="center">
+  <strong>💻 Cada linha de código é uma faísca. Cada projeto, uma explosão de aprendizado.</strong>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=$+python3+neural_blast.py+--iterations+2000;💥+Rede+Neural+ativada;💥+Dados+explodindo+em+insights;💥+Fronteira+de+decisão+em+mutação" />
 </p>
