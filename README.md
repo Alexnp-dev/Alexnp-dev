@@ -8,6 +8,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alexnp-dev&left_color=9745f5&right_color=000000&left_text=Visitantes" />
 </div>
 
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Ciência de Dados com foco em Python, Machine Learning e Cloud  
+📍 São Paulo - SP  
+🚀 Em transição de carreira com disciplina, curiosidade e paixão por tecnologia  
+📈 Buscando aplicar dados em soluções reais e impactantes
+
+---
+
+## 🧰 Tecnologias que estou aprendendo
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
@@ -22,6 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
 </div>
 
+---
+
+## 📊 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [diamantes-analise](https://github.com/Alexnp-dev/diamantes-analise) | Análise exploratória de preços de diamantes | Python, Pandas, Seaborn |
+| [analise-notas](https://github.com/Alexnp-dev/analise-notas) | Estudo de desempenho escolar com visualizações | Python, Matplotlib |
+
+---
+
+## 📫 Contato
+
 <div align="center">
   <a href="mailto:alexnp2013@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
@@ -33,3 +59,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
+---
+
+> “Comecei do zero, mas estou indo longe.”  
+> _Transformando dados em decisões._
