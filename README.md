@@ -80,6 +80,12 @@
 
 ## 🕹️ Meu Gráfico de Contribuições estilo Pac-Man
 > Cada ponto é uma linha de código. Cada curva, uma ideia em movimento.
+>
+> <h2 align="center">⚡ Explosão de Código</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=$+python3+neural_blast.py+--iterations+2000;💥+Rede+Neural+ativada;💥+Dados+explodindo+em+clusters;💥+Fronteira+de+decisão+em+mutação;$+whoami;Alex+—+engenheiro+de+ideias,+artista+de+algoritmos,+alquimista+de+dados" />
+</p>
 
 <h1 align="center">
   💣 <span style="color:#00f7ff;">Machine Learning Detonado</span> 💣
