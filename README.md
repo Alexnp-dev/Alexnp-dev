@@ -21,10 +21,6 @@
 
 ###
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1lcWVwN3Bsc2YyMXlpa2dtNHMyeWllbDZ0eXpjamZpazk5bjdraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -64,7 +60,7 @@ https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1lcWVwN3Bsc2YyMXlpa2dtNHMyeW
 
 <br clear="both">
 
-## 🕹️ Meu Gráfico de Contribuições estilo Pac-Man
+## 🕹️ Meu Gráfico de Contribuições
 > Cada ponto é uma linha de código. Cada curva, uma ideia em movimento.
 >
 > <h2 align="center">⚡ Explosão de Código</h2>
