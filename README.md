@@ -1,64 +1,102 @@
-<h1 align="center">👋 Olá, eu sou o Alex!</h1>
+<h1 align="center">
+  👋 <span style="color:#00f7ff;">Olá, eu sou o Alex!</span>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constante+evolução;Estudante+apaixonado+por+tecnologia;Explorando+os+extremos+da+programação" alt="Typing SVG" />
-</p>
+###
 
----
+<h3 align="left">🌱 Meu Ecossistema Dev<br>Sou Alex, estudante de Ciências de Dados apaixonado por transformar dados em decisões.<br>Meu ecossistema é alimentado por Python, impulsionado por Machine Learning e guiado pela curiosidade em Inteligência Artificial.<br>Navego entre nuvens com Google Cloud Platform, mergulho em bancos robustos como Oracle e SQL, e estou sempre explorando novas formas de extrair valor da informação.<br>Cada repositório aqui é uma trilha do meu aprendizado — e cada commit, um passo rumo à expertise.</h3>
 
-### 🧠 Sobre mim
+###
 
-Sou um desenvolvedor curioso e criativo, apaixonado por transformar ideias em soluções reais. Atualmente sou candidato a doutor em sistemas de inteligência e lógica, e estou sempre buscando aprender algo novo.
-
-- 🎓 Doutorando em Inteligência Computacional
-- 🧪 Explorando Python, JavaScript, C++, MATLAB e C#
-- 🛠️ Aprendendo frameworks modernos e boas práticas
-- 💡 Gosto de resolver problemas com lógica e criatividade
-
----
-
-### 🚀 Tecnologias & Ferramentas
+<br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,matlab,cs,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexnp-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=Mapa%20de%20Evolu%C3%A7%C3%A3o" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexnp-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2&custom_title=Meu%20Ecossistema%20Dev" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Alexnp-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexnp-dev&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexnp-dev&layout=compact&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexnp-dev&theme=transparent&hide_border=true" />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlmbHZ0emxycHU5ZzloeTcxeXhtdnR1cXJ2aDNnNHA3aGljbmhyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
----
+###
 
-### 🧪 Projetos em destaque
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+</div>
 
-| 💼 Projeto | 📄 Descrição | 🧰 Tecnologias |
-|-----------|--------------|----------------|
-| **Automação de Tarefas** | Scripts para otimizar processos repetitivos | Python, Git |
-| **Site Pessoal** | Página responsiva com design moderno | HTML, CSS, JS |
-| **Análise de Dados Acadêmica** | Visualização de dados científicos | MATLAB, Python |
+###
 
----
+<div align="center">
+  <a href="www.linkedin.com/in/alex-nascimento2025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/alex.nasc.official?igsh=MWx5OTdueGdqaGltdw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-### 🌐 Onde me encontrar
+###
+
+<br clear="both">
+
+## 🕹️ Meu Gráfico de Contribuições estilo Pac-Man
+> Cada ponto é uma linha de código. Cada curva, uma ideia em movimento.
+
+<h1 align="center">
+  💣 <span style="color:#00f7ff;">Machine Learning Detonado</span> 💣
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alex" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Alexnp-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:alex@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/Aleem-Alex/Aleem-Alex/output/pacman-contribution-graph-dark.svg" width="600" alt="Gráfico Pac-Man">
 </p>
 
 ---
 
-### ⭐ Curtiu meu perfil?
+### ⚡ Explosão de Código
 
-Se você achou interessante, deixe uma ⭐ no repositório! Isso me ajuda a crescer e continuar compartilhando conhecimento.
+```bash
+$ python3 neural_blast.py --iterations 2000
+💥 Rede Neural ativada
+💥 Dados explodindo em clusters
+💥 Fronteira de decisão em mutação
+
+$ whoami
+Alex — engenheiro de ideias, artista de algoritmos, alquimista de dados.
+
+<h1 align="center">
+  💣 <span style="color:#00f7ff;">Machine Learning Detonado</span> 💣
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/Aleem-Alex/Aleem-Alex/output/pacman-contribution-graph-dark.svg" width="600" alt="Gráfico Pac-Man">
 </p>
+
+---
+
+```bash
+$ whoami
+Alex — Ciêntista de Dados, artista de algoritmos, alquimista de dados.
