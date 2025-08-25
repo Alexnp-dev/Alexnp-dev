@@ -1,76 +1,125 @@
-<h1 align="center">Ciências de Dados | Python | Machine Learning</h1>
+<h1 align="center">🚀 Ciência de Dados | Python | Machine Learning</h1>
 
-###
+<p align="center">
+  <em>Transformando curiosidade em soluções inteligentes com dados.</em>
+</p>
 
-<p align="left">👨‍💻 Sobre mim<br>Sou um profissional em transição de carreira para tecnologia, apaixonado por dados e soluções inteligentes.<br>Tenho construído uma rotina de estudos com disciplina e foco em Python, análise de dados, visualização e computação em nuvem.<br>💡 Acredito que curiosidade, dedicação e consistência são tão importantes quanto qualquer linguagem de programação.</p>
+---
 
-###
+## 👨‍💻 Sobre Mim
 
-<p align="left">🧠 Tecnologias que estou aprendendo<br>🔹 Python  <br>🔹 Jupyter Notebook  <br>🔹 Pandas & NumPy  <br>🔹 Matplotlib & Seaborn  <br>🔹 SQL  <br>🔹 Google Cloud & Azure  <br>🔹 Apache Airflow  <br>🔹 TensorFlow & PyTorch  <br>🔹 H2O.ai  <br>🔹 Apache Spark  <br>🔹 Kubernetes</p>
+Sou um profissional em transição para tecnologia, apaixonado por dados e por resolver problemas com inteligência.  
+Atualmente, estou focado em construir uma base sólida em Python, análise de dados, visualização e computação em nuvem.  
+Acredito que **curiosidade, dedicação e consistência** são tão importantes quanto qualquer linguagem de programação.
 
-###
+---
 
-<br clear="both">
+## 🧠 Tecnologias em Aprendizado
+
+- 🐍 Python & Jupyter Notebook  
+- 📊 Pandas, NumPy, Matplotlib, Seaborn  
+- 🧮 SQL (PostgreSQL, Microsoft SQL Server)  
+- ☁️ Google Cloud & Microsoft Azure  
+- 🔄 Apache Airflow & Apache Spark  
+- 🤖 TensorFlow, PyTorch, H2O.ai  
+- 📦 Kubernetes
+
+---
+
+## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexnp-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1&custom_title=%F0%9F%93%88%20An%C3%A1lise%20Estat%C3%ADstica%20de%20Contribui%C3%A7%C3%B5es!!" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexnp-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2&custom_title=%F0%9F%A7%AC%20Frequ%C3%AAncia%20de%20c%C3%B3digo" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexnp-dev&show_icons=true&theme=merko&locale=pt-br&custom_title=📊 Contribuições" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexnp-dev&layout=compact&theme=merko&locale=pt-br&custom_title=🧠 Linguagens" height="150" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🧪 Projetos em Destaque
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alexnp-dev.Alexnp-dev&left_color=darkblue&right_color=darkred&left_text=Visitantes"  />
-</div>
+- 🔍 [Análise de Vendas com Python](https://github.com/Alexnp-dev/analise-vendas-python)  
+  Explorando dados com Pandas e visualizações com Seaborn.
 
-###
+- 🤖 [Classificador de Imagens com TensorFlow](https://github.com/Alexnp-dev/classificador-imagens-tf)  
+  Rede neural convolucional para classificação de imagens.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-</div>
+- ☁️ [Pipeline de Dados com Airflow e GCP](https://github.com/Alexnp-dev/pipeline-airflow-gcp)  
+  Orquestração de ETL usando Apache Airflow e Google Cloud.
 
-###
+---
+
+## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <a href="www.linkedin.com/in/ alex-nascimento2025 " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/alex-nascimento2025" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/alex.nasc.official?igsh=MWx5OTdueGdqaGltdw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/alex.nasc.official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="alexnp2013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:alexnp2013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🧩 Contribuições Criativas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## ⚙️ Tecnologias Favoritas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" />
+</div>
+
+
+import random
+
+print("🎮 Bem-vindo ao jogo: Adivinhe o Número!")
+numero_secreto = random.randint(1, 100)
+tentativas = 0
+
+while True:
+    chute = int(input("Digite um número entre 1 e 100: "))
+    tentativas += 1
+    if chute == numero_secreto:
+        print(f"🎉 Parabéns! Você acertou em {tentativas} tentativas.")
+        break
+    elif chute < numero_secreto:
+        print("🔼 Tente um número maior.")
+    else:
+        print("🔽 Tente um número menor.")
+
+        <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico estilo Pac-Man" src="https://raw.githubusercontent.com/Alexnp-dev/Alexnp-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+![Snake animation](https://github.com/Alexnp-dev/Alexnp-dev/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">👨‍💻 Alex Nascimento | Ciência de Dados & IA</h1>
+<p align="center">Transformando dados em decisões inteligentes com Python, Machine Learning e Cloud.</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+</div>
