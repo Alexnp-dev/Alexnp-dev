@@ -1,9 +1,12 @@
+<!-- Capa animada -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
-<div align="center" width="100%">
+<!-- Texto digitando -->
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Estudante+de+Ciência+de+Dados;Foco+em+Python,+Machine+Learning+e+Cloud;Em+transição+de+carreira+com+disciplina+e+curiosidade" alt="Typing SVG"/>
 </div>
 
+<!-- Contador de visitantes -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alexnp-dev&left_color=9745f5&right_color=000000&left_text=Visitantes" />
 </div>
@@ -23,15 +26,10 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
 </div>
 
