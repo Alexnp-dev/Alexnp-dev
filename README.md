@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">🌱 Meu Ecossistema Dev<br>Sou Alex, estudante de Ciências de Dados apaixonado por transformar dados em decisões.<br>Meu ecossistema é alimentado por Python, impulsionado por Machine Learning e guiado pela curiosidade em Inteligência Artificial.<br>Navego entre nuvens com Google Cloud Platform, mergulho em bancos robustos como Oracle e SQL, e estou sempre explorando novas formas de extrair valor da informação.<br>Cada repositório aqui é uma trilha do meu aprendizado — e cada commit, um passo rumo à expertise.</h3>
+<h3 align="left">🌱 Alexnp-Dev Métricas do Github<br>Sou Alex, estudante de Ciências de Dados apaixonado por transformar dados em decisões.<br>Meu ecossistema é alimentado por Python, impulsionado por Machine Learning e guiado pela curiosidade em Inteligência Artificial.<br>Navego entre nuvens com Google Cloud Platform, mergulho em bancos robustos como Oracle e SQL, e estou sempre explorando novas formas de extrair valor da informação.<br>Cada repositório aqui é uma trilha do meu aprendizado — e cada commit, um passo rumo à expertise.</h3>
 
 ###
 
