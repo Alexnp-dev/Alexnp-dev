@@ -84,10 +84,6 @@ C:\Usuários\Alex> echo "Bem-vindo ao meu universo de dados. Prepare-se para ins
 
 ## 📲 Conecte-se comigo
 
-- 💼 [LinkedIn](---
-
-## 📲 Conecte-se comigo
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-nascimento2025/)  
 - 📸 [Instagram](https://www.instagram.com/alex.nasc.official?utm_source=qr&igsh=MWx5OTdueGdqaGltdw==)  
 
@@ -101,15 +97,5 @@ Se algo te inspirou, conecte-se — vamos transformar ideias em soluções.
 
 > *"Dados são o novo petróleo. Mas sem refinamento, são apenas ruído."*  
 > — Alex, explorador de padrões e criador de sentido.)  
-- 📸 [Instagram](https://www.instagram.com/seu-usuario)  
 
 ---
-
-## 🙏 Agradecimento
-
-Obrigado por visitar meu perfil!  
-Cada projeto aqui representa uma etapa da minha jornada como cientista de dados.  
-Se algo te inspirou, conecte-se — vamos transformar ideias em soluções.
-
-> *"Dados são o novo petróleo. Mas sem refinamento, são apenas ruído."*  
-> — Alex, explorador de padrões e criador de sentido.
