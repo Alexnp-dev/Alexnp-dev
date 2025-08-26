@@ -1,9 +1,22 @@
 <h1 align="center">👋 Olá, eu sou o Alex!</h1>
 
+<p align="center" style="color:#FF4500; font-size:20px;">
+  🚀 <strong>Ciência de Dados em ação com Python, IA e nuvem!</strong> ☁️
+</p>
+
 ##
 
-<h3 align="left">🌱 Meu Ecossistema Dev<br>Sou Alex, estudante de Ciências de Dados apaixonado por transformar dados em decisões.<br>Meu ecossistema é alimentado por Python, impulsionado por Machine Learning e guiado pela curiosidade em Inteligência Artificial.<br>Navego entre nuvens com Google Cloud Platform, mergulho em bancos robustos como Oracle e SQL, e estou sempre explorando novas formas de extrair valor da informação.<br>Cada repositório aqui é uma trilha do meu aprendizado — e cada commit, um passo rumo à expertise.</h3>
+🌱 Meu Ecossistema Dev
 
+Sou estudante de Ciências de Dados apaixonado por transformar dados em decisões.
+
+- 🚀 Meu ecossistema é **alimentado por Python**, **impulsionado por Machine Learning** e **guiado pela curiosidade em Inteligência Artificial**
+- ☁️ Navego entre nuvens com **Google Cloud Platform**, mergulho em bancos robustos como **Oracle** e **SQL**.
+- 🔍 Sempre explorando novas formas de extrair valor da informação.
+
+Cada repositório aqui é uma trilha do meu aprendizado e, em cada commit, um passo rumo à expertise.
+
+🧠 *Curioso por natureza, movido por dados.*
 ##
 
 <div align="center">
@@ -49,3 +62,54 @@
 </div>
 
 ##
+
+<div style="background-color:#0d1117; color:#00ff99; padding:25px; border-radius:12px; font-family:monospace; box-shadow: 0 0 15px #00ff99;">
+  <pre>
+C:\Usuários\Alex> boot --profile
+
+🔄 Inicializando ambiente de Ciência de Dados...
+
+✔ Python ✔ Pandas ✔ Matplotlib ✔ IA ✔ Oracle ✔ GCP
+
+// Comentário:
+// Este perfil pertence a Alex — um explorador de dados que transforma curiosidade em soluções.
+// Cada linha de código carrega intenção. Cada projeto é uma jornada real de aprendizado.
+// Inteligência não é só artificial — é construída com propósito, uma variável por vez.
+
+C:\Usuários\Alex> echo "Bem-vindo ao meu universo de dados. Prepare-se para insights."
+  </pre>
+</div>
+
+---
+
+## 📲 Conecte-se comigo
+
+- 💼 [LinkedIn](---
+
+## 📲 Conecte-se comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-nascimento2025/)  
+- 📸 [Instagram](https://www.instagram.com/alex.nasc.official?utm_source=qr&igsh=MWx5OTdueGdqaGltdw==)  
+
+---
+
+## 🙏 Agradecimento
+
+Obrigado por visitar meu perfil!  
+Cada projeto aqui representa uma etapa da minha jornada como cientista de dados.  
+Se algo te inspirou, conecte-se — vamos transformar ideias em soluções.
+
+> *"Dados são o novo petróleo. Mas sem refinamento, são apenas ruído."*  
+> — Alex, explorador de padrões e criador de sentido.)  
+- 📸 [Instagram](https://www.instagram.com/seu-usuario)  
+
+---
+
+## 🙏 Agradecimento
+
+Obrigado por visitar meu perfil!  
+Cada projeto aqui representa uma etapa da minha jornada como cientista de dados.  
+Se algo te inspirou, conecte-se — vamos transformar ideias em soluções.
+
+> *"Dados são o novo petróleo. Mas sem refinamento, são apenas ruído."*  
+> — Alex, explorador de padrões e criador de sentido.
